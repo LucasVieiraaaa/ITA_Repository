@@ -1,0 +1,15 @@
+C:\Users\Waz\source\repos\ITA_Trabalho_Final\ITA_Trabalho_Final\obj\Debug\net6.0\ITA_Trabalho_Final.csproj.AssemblyReference.cache
+C:\Users\Waz\source\repos\ITA_Trabalho_Final\ITA_Trabalho_Final\obj\Debug\net6.0\ITA_Trabalho_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Waz\source\repos\ITA_Trabalho_Final\ITA_Trabalho_Final\obj\Debug\net6.0\ITA_Trabalho_Final.AssemblyInfoInputs.cache
+C:\Users\Waz\source\repos\ITA_Trabalho_Final\ITA_Trabalho_Final\obj\Debug\net6.0\ITA_Trabalho_Final.AssemblyInfo.cs
+C:\Users\Waz\source\repos\ITA_Trabalho_Final\ITA_Trabalho_Final\obj\Debug\net6.0\ITA_Trabalho_Final.csproj.CoreCompileInputs.cache
+C:\Users\Waz\source\repos\ITA_Trabalho_Final\ITA_Trabalho_Final\bin\Debug\net6.0\ITA_Trabalho_Final.exe
+C:\Users\Waz\source\repos\ITA_Trabalho_Final\ITA_Trabalho_Final\bin\Debug\net6.0\ITA_Trabalho_Final.deps.json
+C:\Users\Waz\source\repos\ITA_Trabalho_Final\ITA_Trabalho_Final\bin\Debug\net6.0\ITA_Trabalho_Final.runtimeconfig.json
+C:\Users\Waz\source\repos\ITA_Trabalho_Final\ITA_Trabalho_Final\bin\Debug\net6.0\ITA_Trabalho_Final.dll
+C:\Users\Waz\source\repos\ITA_Trabalho_Final\ITA_Trabalho_Final\bin\Debug\net6.0\ITA_Trabalho_Final.pdb
+C:\Users\Waz\source\repos\ITA_Trabalho_Final\ITA_Trabalho_Final\obj\Debug\net6.0\ITA_Trabalho_Final.dll
+C:\Users\Waz\source\repos\ITA_Trabalho_Final\ITA_Trabalho_Final\obj\Debug\net6.0\refint\ITA_Trabalho_Final.dll
+C:\Users\Waz\source\repos\ITA_Trabalho_Final\ITA_Trabalho_Final\obj\Debug\net6.0\ITA_Trabalho_Final.pdb
+C:\Users\Waz\source\repos\ITA_Trabalho_Final\ITA_Trabalho_Final\obj\Debug\net6.0\ITA_Trabalho_Final.genruntimeconfig.cache
+C:\Users\Waz\source\repos\ITA_Trabalho_Final\ITA_Trabalho_Final\obj\Debug\net6.0\ref\ITA_Trabalho_Final.dll
